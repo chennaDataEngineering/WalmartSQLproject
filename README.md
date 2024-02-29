@@ -11,3 +11,7 @@ The major aim of thie project is to gain insight into the sales data of Walmart 
 
 **About Data**
 This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
+
+
+Column | Description | DataType 
+
