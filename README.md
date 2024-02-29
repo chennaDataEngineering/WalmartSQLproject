@@ -57,10 +57,14 @@ Add a new column named month_name that contains the extracted months of the year
 **Conclusion:**
 
 Business Questions To Answer
+
 Generic Question
+
 How many unique cities does the data have?
+
 In which city is each branch?
-Product
+
+**Product**
 How many unique product lines does the data have?
 What is the most common payment method?
 What is the most selling product line?
